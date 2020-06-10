@@ -5291,7 +5291,8 @@ z .slider-area .hero-cap h2 {
 	padding-bottom: 26px
 }
 .available-app-area .app-caption .app-btn .app-btn1 {
-	padding-right: 15px
+	padding-right: 15px;
+	border-radius: 25px;
 }
 @media (max-width: 767px) {
 	.available-app-area .app-caption .app-btn .app-btn2 {
