@@ -4363,7 +4363,7 @@ del {
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
 	.main-header .main-menu {
-		margin-right: 30px
+		margin-right: 10px
 	}
 }
 .main-header .main-menu ul li {
@@ -4375,7 +4375,7 @@ del {
 .main-header .main-menu ul li>a {
 	color: #050108;
 	font-weight: 400;
-	padding: 39px 16px;
+	padding: 19px 16px;
 	font-weight: 400;
 	display: block;
 	font-size: 16px;
@@ -4387,7 +4387,7 @@ del {
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	.main-header .main-menu ul li>a {
-		padding: 39px 15px
+		padding: 19px 15px
 	}
 }
 .main-header .main-menu ul li>a::before {
@@ -5253,7 +5253,7 @@ z .slider-area .hero-cap h2 {
 }
 .available-app-area {
 	position: relative;
-	padding-top: 220px;
+	padding-top: 100px;
 	padding-bottom: 220px
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
