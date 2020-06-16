@@ -1804,13 +1804,13 @@ hr {
 	}
 }
 .section-padd4 {
-	padding-top: 200px;
+	padding-top: 100px;
 	padding-bottom: 110px
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
 	.section-padd4 {
-		padding-top: 200px;
-		padding-bottom: 110px
+		padding-top: 100px;
+		padding-bottom: 50px
 	}
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -3381,9 +3381,9 @@ hr {
 	background-image: -ms-linear-gradient(0deg, #f9218d 0%, #6c19f6 100%)
 }
 .available-app-area {
-	background-image: -moz-linear-gradient(0deg, #6c19f6 0%, #f9218d 100%);
-	background-image: -webkit-linear-gradient(0deg, #6c19f6 0%, #f9218d 100%);
-	background-image: -ms-linear-gradient(0deg, #6c19f6 0%, #f9218d 100%)
+	background-image: -moz-linear-gradient(0deg, #F4AF1B 0%, #00154F 100%);
+	background-image: -webkit-linear-gradient(0deg, #F4AF1B 0%, #00154F 100%);
+	background-image: -ms-linear-gradient(0deg, #F4AF1B 0%, #00154F 100%);
 }
 .sample-text-area {
 	background: #fff;
@@ -5302,7 +5302,7 @@ z .slider-area .hero-cap h2 {
 }
 .available-app-area .app-img {
 	position: relative;
-	right: -88px
+	/*right: -88px*/
 }
 @media only screen and (min-width: 1200px) and (max-width: 1440px) {
 	.available-app-area .app-img {
@@ -5317,19 +5317,19 @@ z .slider-area .hero-cap h2 {
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.available-app-area .app-img {
-		top: 45px;
+		/*top: 45px;*/
 		right: 0
 	}
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 	.available-app-area .app-img {
-		top: 45px;
+		/*top: 45px;*/
 		right: 0
 	}
 }
 @media (max-width: 767px) {
 	.available-app-area .app-img {
-		top: 45px;
+		/*top: 45px;*/
 		right: 0
 	}
 }
