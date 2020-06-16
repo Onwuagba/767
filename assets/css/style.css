@@ -5302,7 +5302,7 @@ z .slider-area .hero-cap h2 {
 }
 .available-app-area .app-img {
 	position: relative;
-	/*right: -88px*/
+	right: -88px
 }
 @media only screen and (min-width: 1200px) and (max-width: 1440px) {
 	.available-app-area .app-img {
@@ -5317,19 +5317,19 @@ z .slider-area .hero-cap h2 {
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.available-app-area .app-img {
-		/*top: 45px;*/
+		top: 45px;
 		right: 0
 	}
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 	.available-app-area .app-img {
-		/*top: 45px;*/
+		top: 45px;
 		right: 0
 	}
 }
 @media (max-width: 767px) {
 	.available-app-area .app-img {
-		/*top: 45px;*/
+		top: 45px;
 		right: 0
 	}
 }
