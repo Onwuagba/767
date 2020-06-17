@@ -1,5 +1,9 @@
 /*Github: @onwuagba*/
 
+.header-sticky.sticky-bar.sticky .main-menu ul>li>a{
+ padding: 5px !important;
+}
+
 #header1{
 	color: #f4af1b;
 	font-size: 80px;
@@ -23,8 +27,42 @@
 	padding: 5px;
 }
 
-.user-help{
+.user-help {
 	padding: 60px;
+}
+
+.phone-image img{
+  margin-top: 30px;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .phone-image img{
+    margin-top: 20px;
+    width: auto;
+    height: auto;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .phone-image img{
+    margin-top: 20px;
+    width: 400px;
+    height: 400px;
+  }
+}
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .phone-image img{
+    margin-top: 20px;
+    width: 400px;
+    height: 400px;
+  }
+}
+@media (max-width: 767px) {
+  .phone-image img{
+    margin-top: 20px;
+    width: 400px;
+    height: 400px;
+  }
 }
 
 .download{
@@ -94,9 +132,6 @@
 	}
 }
 
-/*--------------------------------------------------------------
-# Frequently Asked Questions
---------------------------------------------------------------*/
 .faq .accordion-list {
   padding: 0 100px;
 }
