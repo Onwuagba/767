@@ -52,6 +52,28 @@
 	padding: 60px;
 }
 
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .user-help {
+    padding: 60px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .user-help {
+    padding: 40px;
+  }
+}
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .user-help {
+    padding: 20px;
+  }
+}
+@media (max-width: 767px) {
+  .user-help {
+    padding: 20px;
+  }
+}
+
 .phone-image img{
   margin-top: 30px;
 }
