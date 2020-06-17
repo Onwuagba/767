@@ -38,30 +38,30 @@
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .phone-image img{
     margin-top: 20px;
-    width: auto;
-    height: auto;
+    max-width: 100%; 
+    height: auto
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .phone-image img{
     margin-top: 20px;
-    width: 400px;
-    height: 400px;
+    max-width: 100%; 
+    height: auto
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .phone-image img{
     margin-top: 20px;
-    width: 400px;
-    height: 400px;
+     max-width: 100%; 
+    height: auto
   }
 }
 @media (max-width: 767px) {
   .phone-image img{
     margin-top: 20px;
-    width: 400px;
-    height: 400px;
+     max-width: 100%; 
+    height: auto
   }
 }
 
